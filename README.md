@@ -1,3 +1,3 @@
 # CNN
 
-Convolutinal Neural Network based on a Youtube tutorial
+Convolutinal Neural Network partly based on a Youtube tutorial
